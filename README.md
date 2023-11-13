@@ -1,7 +1,3 @@
-# DecidaPorMim
+# Decide for me
 
-Pergunta lida, resposta concedida. 
-
-Nada aleatório e super personalizado para cada pessoa #sqn
-
-Projeto desenvolvido para de desenvolver habilidades com funções na linguagem. 
+Random Question Answerer, a Python version of the Magic 8 Ball Fortune Telling. 🎱
